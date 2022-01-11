@@ -2,7 +2,7 @@
 ---
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![Resim](https://ibb.co/brpxdXR)
+![Resim](https://www.linkpicture.com/q/Screenshot_1012.png)
 
 ## Installation
 ---
